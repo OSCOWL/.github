@@ -1,6 +1,6 @@
 # Welcome to Our Organization
 
-![Organization Logo](https://www.oscowl.in/assets/img/logo.png)
+OSCOWL
 
 ## About Us
 
