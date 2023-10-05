@@ -28,7 +28,7 @@ We abide by a Code of Conduct to ensure a friendly and inclusive environment for
 ## Contact
 
 - If you have any questions or concerns, you can [create an issue](https://github.com/your-organization/your-repo/issues).
-- For more urgent matters, you can reach out to us via email at [aryuemaan@yahoo.com](mailto:aryuemaan@yahoo.com).
+- For more urgent matters, you can reach out to us via email at [githubhelp@oscowl.com](mailto:aryuemaan@yahoo.com).
 
 ## License
 
