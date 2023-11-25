@@ -23,7 +23,7 @@ We welcome contributions from the community to make our projects even better. If
 
 ## Code of Conduct
 
-We abide by a Code of Conduct to ensure a friendly and inclusive environment for everyone involved in our organization. Read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior.
+We abide by a Code of Conduct to ensure a friendly and inclusive environment for everyone involved in our organization. Read our [Code of Conduct](https://github.com/OSCOWL/code_of_conduct) to understand the expected behavior.
 
 ## Contact
 
