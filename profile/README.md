@@ -1,6 +1,6 @@
 # Welcome to Our Organization
 
-OSCOWL
+OSCOWL & Co (AKOSCOWL DOT INVENTIONS PVT LIM)
 
 ## About Us
 
