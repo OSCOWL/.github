@@ -4,7 +4,7 @@ OSCOWL & Co (AKOSCOWL DOT INVENTIONS PVT LIM)
 
 ## About Us
 
-Welcome to the official GitHub repository of our organization. We are a passionate group of individuals working together in Building AI Technologies to various industries. Through this repository, we aim to share our projects, codebase, and ideas with the open-source community and foster collaboration.
+Welcome to the official GitHub repository of our organization. We are a passionate group of individuals working together to build AI Technologies for various industries. Through this repository, we aim to share our projects, codebase, and ideas with the open-source community and foster collaboration.
 
 ## Table of Contents
 - [Contributing](#contributing)
@@ -38,6 +38,6 @@ Specify the license under which your organization's projects are distributed. Fo
 ```
 MIT License
 
-Copyright (c) 2023 OSCOWL
+Copyright (c) 2024 OSCOWL
 
 ```
