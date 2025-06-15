@@ -10,7 +10,7 @@ At **OSCOWL AI**, we're advancing open-source innovation in AI and software tech
 Open communities are creating amazing software together, and **OSCOWL AI** is always welcoming new contributors. Whether you're a beginner or a seasoned developer, there are excellent `good first issue` opportunities to help you get started.
 
 ### Explore Featured Projects  
-Check out our active and featured open-source projects:  
+Check out our active and featured projects:  
 [https://www.oscowl.in/Products](https://www.oscowl.in/Products)
 
 ### Open Source Jobs at OSCOWL  
