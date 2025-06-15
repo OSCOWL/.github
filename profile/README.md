@@ -1,43 +1,38 @@
-# Welcome to Our Organization
 
-OSCOWL & Co (AKOSCOWL DOT INVENTIONS PVT LIM)
+![owl](https://github.com/user-attachments/assets/f293ec1a-58c6-4bcf-a86a-482384466187)
 
-## About Us
+# Welcome to OSCOWL AI
 
-Welcome to the official GitHub repository of our organization. We are a passionate group of individuals working together to build AI Technologies for various industries. Through this repository, we aim to share our projects, codebase, and ideas with the open-source community and foster collaboration.
+At **OSCOWL AI**, we're advancing open-source innovation in AI and software technologies by building cutting-edge, accessible, and collaborative solutions. We believe in community-driven development and are committed to making meaningful contributions to the open-source ecosystem.
 
-## Table of Contents
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [Contact](#contact)
+## Get Involved
 
-## Contributing
+Open communities are creating amazing software together, and **OSCOWL AI** is always welcoming new contributors. Whether you're a beginner or a seasoned developer, there are excellent `good first issue` opportunities to help you get started.
 
-We welcome contributions from the community to make our projects even better. If you wish to contribute, please follow these steps:
+### Explore Featured Projects  
+Check out our active and featured open-source projects:  
+[https://www.oscowl.in/Products](https://www.oscowl.in/Products)
 
-1. Fork the repository.
-2. Create a new branch with a descriptive name: `git checkout -b feature/`.
-3. Make necessary changes and commit: `git commit -m ""`.
-4. Push your changes to the branch: `git push origin feature/`.
-5. Open a Pull Request, and we will review your changes.
+### Open Source Jobs at OSCOWL  
+Want to turn your passion into a profession? Explore career opportunities at OSCOWL AI:  
+[https://www.oscowl.in/Careers](https://www.oscowl.in/Careers)
 
+---
+
+## Have Questions?
+
+Please use repository Issues to ask project-specific questions.  
+For general inquiries, visit our website:  
+[Contact Us](info@oscowl.in)
+
+---
 
 ## Code of Conduct
 
-We abide by a Code of Conduct to ensure a friendly and inclusive environment for everyone involved in our organization. Read our [Code of Conduct](https://github.com/OSCOWL/code_of_conduct) to understand the expected behavior.
+OSCOWL AI projects adopt an open-source Code of Conduct.  
+For more information, please refer to the Code of Conduct documentation.  
 
-## Contact
 
-- If you have any questions or concerns, you can [create an issue](https://github.com/your-organization/your-repo/issues).
-- For more urgent matters, you can reach out to us via email at [githubhelp@oscowl.com](mailto:aryuemaan@yahoo.com).
+---
 
-## License
-
-Specify the license under which your organization's projects are distributed. For example, you can use the MIT License:
-
-```
-MIT License
-
-Copyright (c) 2024 OSCOWL
-
-```
+Together, let's build the future of AI — open, powerful, and accessible to all.
